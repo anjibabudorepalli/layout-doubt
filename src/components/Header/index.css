@@ -1,0 +1,9 @@
+.header-container {
+  background-color: #64748b;
+  height: 10vh;
+  margin-bottom: 3px;
+}
+
+.header-head {
+  text-align: center;
+}

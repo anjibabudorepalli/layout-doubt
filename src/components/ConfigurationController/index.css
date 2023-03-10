@@ -1,0 +1,15 @@
+.ul-container {
+  list-style-type: none;
+}
+
+.configure-container {
+  background-color: #475569;
+  color: #e2e8f0;
+  padding: 4px;
+  height: 25vh;
+}
+
+.head-configure {
+  padding-left: 40px;
+  font-size: 20px;
+}

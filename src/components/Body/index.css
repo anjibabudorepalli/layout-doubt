@@ -1,0 +1,50 @@
+.body-container {
+  display: flex;
+}
+
+.body-1-1 {
+  background-color: #e2e8f0;
+  min-width: 25vw;
+  padding: 10px;
+  min-width: 25vw;
+  border-style: solid;
+  height: 40vh;
+}
+.body-1-2 {
+  min-width: 0;
+}
+.body-2-1 {
+  max-width: 100vw;
+  background-color: #f1f5f9;
+  border-style: solid;
+  height: 40vh;
+}
+.body-2-2 {
+  min-width: 50vw;
+}
+
+.body-3-1 {
+  min-width: 25vw;
+  background-color: #e2e8f0;
+  height: 40vh;
+  border-style: solid;
+}
+.body-3-2 {
+  width: 25vw;
+}
+
+.head-nav {
+  font-size: 15px;
+}
+
+.box-para {
+  text-align: center;
+  border-style: solid;
+  padding: 20px;
+  margin-left: 23px;
+  margin-right: 20px;
+}
+
+.ul-con {
+  list-style-type: none;
+}
